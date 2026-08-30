@@ -39,7 +39,5 @@ zip), not tracked in the repository — the group works from one shared layout.
 ## Conventions
 
 - **Professional register:** everything group-visible is written in a formal, professional register — no personal references, no emoticons, no local machine paths.
-- **Commit discipline:** meaningful, descriptive commit messages; at least 3
-  commits spread across 2+ days; one nominated substantial contribution.
 - **Data integrity:** `data/raw/` is read-only. Clean copies and derived outputs
   live in `data/cleaned/` or script outputs — never overwrite the originals.
