@@ -30,9 +30,11 @@ DATA1002/
 │   └── cleaned/       # Cleaned/preprocessed datasets
 ├── scripts/           # Shared Python: cleaning, analysis, charting
 ├── report/            # Report source and assets
-├── members/           # Per-member folders (individual sections + code)
 └── shared/            # Shared content across members
 ```
+
+Per-member submission folders are assembled at packaging time (for the Canvas
+zip), not tracked in the repository — the group works from one shared layout.
 
 ## Conventions
 
