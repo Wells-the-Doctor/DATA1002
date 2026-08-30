@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Data — large/raw artifacts stay out of git; keep only small cleaned outputs
+data/raw/*
+!data/raw/.gitkeep
+
+# Reports (rendered) — source tracked, generated output not
+report/*.html
+report/*.pdf
+
+# Scratch
+scratch/
+*.tmp
