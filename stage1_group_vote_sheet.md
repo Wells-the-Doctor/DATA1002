@@ -1,10 +1,12 @@
-# DATA1002 Stage 1 — Proposed Research Questions
+# DATA1002 Stage 1 — Research Question Decision
 
-*For group discussion. This is a proposed starting list only — new suggestions
-and discussion are welcome.*
+**Decision (locked 2026-09-12): the group has selected rank 1, "How well does the
+index represent the market?" (concentration, survivorship bias, constituent
+turnover).**
 
-The 15 questions below are ranked from most to least promising in terms of how
-straightforward it is to achieve high marks. The ranking considers:
+The 15 questions below are retained as the record of options considered. They are
+ranked from most to least promising in terms of how straightforward it is to
+achieve high marks. The ranking considers:
 
 - **Data availability** — free, citable, downloadable data (no paywalls)
 - **Data-quality narrative** — whether the data has genuine issues to identify
@@ -40,7 +42,8 @@ straightforward it is to achieve high marks. The ranking considers:
 
 ## Next steps
 
-1. Discuss and vote (or propose something new — all ideas welcome).
-2. Once a direction is chosen, data access will be verified before committing.
-3. The selected question then drives the Week 4–5 planning: stakeholders,
+1. Verify data access for the selected question (index constituents, historical
+   membership, constituent price series) before committing to datasets.
+2. Decide the project scope: current snapshot versus over time.
+3. The selected question then drives the Week 4-5 planning: stakeholders,
    datasets, and individual slices.

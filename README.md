@@ -5,6 +5,8 @@ investigation. Groups of 4–5, same lab.
 
 ## Project
 
+- **Research question (locked 2026-09-12):** How well does the index represent the
+  market? (concentration, survivorship bias, constituent turnover)
 - **Due:** 5 pm Sunday, end of Week 9
 - **Value:** 20% of the unit
 - **Format:** combined report (Sections A–E) + per-member code and dataset folders,
