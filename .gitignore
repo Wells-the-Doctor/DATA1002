@@ -26,3 +26,6 @@ report/*.pdf
 # Scratch
 scratch/
 *.tmp
+
+# Secrets — never commit credentials
+.env
