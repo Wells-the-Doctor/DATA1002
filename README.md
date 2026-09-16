@@ -29,7 +29,18 @@ economic measurement is something it may or may not move with.
 **Measurements tested:** real GDP growth · nominal GDP growth · inflation ·
 unemployment · gross national income.
 
-**Countries and indices.** Six countries, one member each, with one member taking two.
+**Countries and indices.** Five members cover six countries — one each, with one member
+taking two:
+
+| Country | Member |
+|:--|:--|
+| Australia | Sunday |
+| China | Wells |
+| France | Zifeng or Leo |
+| Japan | Sean |
+| United Kingdom | Zifeng or Leo |
+| United States | Wells |
+
 Each country carries a headline index and a broad-market index where one can be
 sourced.
 

@@ -97,14 +97,19 @@ economy is an empirical question, and this design treats it as one.
 
 ## 2. Scope and allocation
 
+Five members cover six countries: one country each, with one member taking two.
+
 | Country | Headline index (market side) | Member |
 |:--|:--|:--|
-| Australia | S&P/ASX 200 | Member 3 |
-| United States | S&P 500 | Lead (shared with China) |
-| United Kingdom | FTSE 100 | Member 2 |
-| France | CAC 40 | Member 4 |
-| Japan | Nikkei 225 | Member 5 |
-| China | Shanghai Composite (see §3.5) | Lead (shared with the United States) |
+| Australia | S&P/ASX 200 | Sunday |
+| China | Shanghai Composite (see §3.5) | Wells |
+| France | CAC 40 | Zifeng or Leo |
+| Japan | Nikkei 225 | Sean |
+| United Kingdom | FTSE 100 | Zifeng or Leo |
+| United States | S&P 500 | Wells |
+
+Wells holds two countries, China and the United States. The United Kingdom and France
+are held by Zifeng and Leo, who will confirm between them which member takes which.
 
 Every country contributes the same shape of evidence: its indices, the five economic
 measurements, and the correlations between them. Each member also carries a
