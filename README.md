@@ -19,6 +19,50 @@ investigation.
 - **Format:** combined report as a PDF, plus per-member code and data folders,
   submitted as one compressed file on Canvas.
 
+## Project design (summary)
+
+The full design is in [`PROJECT_DESIGN.md`](PROJECT_DESIGN.md). This is the short form.
+
+**The question.** What does the market move with? The index is the subject; each
+economic measurement is something it may or may not move with.
+
+**Measurements tested:** real GDP growth · nominal GDP growth · inflation ·
+unemployment · gross national income.
+
+**Countries and indices.** Six countries, one member each, with one member taking two.
+Each country carries a headline index and a broad-market index where one can be
+sourced.
+
+**Individual questions** (Sections B and C, one member per country):
+
+1. **What moves with the index** — how strongly does each measurement correlate with
+   the index's total return?
+2. **Money or volume** — is the correlation with nominal growth stronger than with real
+   growth?
+3. **Always, or in particular periods** — do the correlations hold by decade and by
+   inflation regime?
+4. **Both directions of the cycle** — are they different in expansions and contractions,
+   and does the index lead or lag the measurement?
+5. **Which index, in the same country** — does the broad-market index behave differently
+   from the headline index?
+
+**Group question** (Section D, once all six countries are complete): **do the six
+countries tell the same story?** The group's work is collation, not re-analysis — a
+shared results schema lets the six country studies stack directly.
+
+**The data contract**, binding on every country (`PROJECT_DESIGN.md` §3): window
+1990–2025, subject to availability · quarterly analysis grain, with each series retained
+at its native frequency · ten or more attributes per country · local currency primary,
+US dollar as a robustness check · the national statistical authority as the
+authoritative source, with harmonised sources used for cross-country comparison.
+
+**Method in one line.** Correlate the index's total return against each measurement
+(Pearson and Spearman, reporting the number of observations and a confidence interval),
+then test stability by decade and by regime, the cycle, and the second index.
+
+**Read it as association, not causation.** Every reported relationship is co-movement
+only. The verb throughout is "moves with" — never "follows" or "responds to".
+
 ## Repository layout
 
 ```
